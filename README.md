@@ -18,14 +18,9 @@ Aby edytować to repozytorium w MakeCode.
 * kliknij **Importuj**, a następnie **Importuj URL**
 * wklej **https://github.com/albert-wiktor/micro-bito-zaur** i kliknij importuj
 
-## Podgląd bloków
-
-Ten obraz przedstawia kod bloków z ostatniego zatwierdzenia we wzorcu.
-Ten obraz może odświeżać się kilka minut.
-
-![Renderowany widok bloków](https://github.com/albert-wiktor/micro-bito-zaur/raw/master/.github/makecode/blocks.png)
-
 #### Metadane (używane do wyszukiwania, renderowania)
 
 * for PXT/microbit
+* ```
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+```
