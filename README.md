@@ -1,5 +1,5 @@
 
-> Otwórz tę stronę na [https://albert-wiktor.github.io/micro-bito-zaur/](https://albert-wiktor.github.io/micro-bito-zaur/)
+Więcej w odcinku "Albert i Wiktor #5" - https://youtu.be/uUjb1rDRE1I
 
 ## Użyj jako rozszerzenia
 
